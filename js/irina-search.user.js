@@ -6,6 +6,7 @@
 // @author       You
 // @match        https://irinabot.ru/
 // @grant        none
+// @license MIT
 // ==/UserScript==
 
 (function() {
